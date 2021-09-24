@@ -1,0 +1,18 @@
+﻿  ShellSort.cpp
+C:\Users\Selebry\source\repos\ShellSort\ShellSort.cpp(64,73): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Selebry\source\repos\ShellSort\ShellSort.cpp(65,66): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Selebry\source\repos\ShellSort\ShellSort.cpp(88,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Selebry\source\repos\ShellSort\ShellSort.cpp(16): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Random<int>(std::vector<int,std::allocator<int>> &)"
+C:\Users\Selebry\source\repos\ShellSort\ShellSort.cpp(76,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Selebry\source\repos\ShellSort\ShellSort.cpp(17): message : выполняется компиляция ссылки на экземпляр шаблон функции "void PrintArray<int>(std::vector<int,std::allocator<int>>)"
+C:\Users\Selebry\source\repos\ShellSort\ShellSort.cpp(38,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Selebry\source\repos\ShellSort\ShellSort.cpp(18): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Sort<int>(std::vector<int,std::allocator<int>> &)"
+  ShellSort.vcxproj -> C:\Users\Selebry\source\repos\ShellSort\Debug\ShellSort.exe
